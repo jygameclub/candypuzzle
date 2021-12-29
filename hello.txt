@@ -1,0 +1,6 @@
+git config --global user.name 'huangqiang2022'
+git config --global user.email 'huangqiang2022@gmail.com'
+git init
+git branch -m candy1
+git init
+git remote add origin https://github.com/huangqiang2022/candypuzzle.git
